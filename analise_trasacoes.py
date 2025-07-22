@@ -28,7 +28,9 @@ plt.xlabel("Meio de Pagamento")
 plt.ylabel("Quantidade")
 plt.xticks(rotation=15)
 plt.tight_layout()
-plt.savefig("total-trasacao.png")
+
+#Salvar a Imagem
+plt.savefig("assets/total-trasacao.png")
 plt.show()
 
 # ======================
@@ -43,7 +45,9 @@ plt.xlabel("Ano-Mês")
 plt.ylabel("Quantidade de Transações")
 plt.legend(title="Meio de Pagamento")
 plt.tight_layout()
-plt.savefig("evolucao-pagamento.png")
+
+#Salvar a Imagem
+plt.savefig("assets/evolucao-pagamento.png")
 plt.show()
 
 
@@ -64,6 +68,8 @@ plt.xlabel("Meio de Pagamento")
 plt.ylabel("Valor Total (R$ Milhões)")
 plt.xticks(rotation=15)
 plt.tight_layout()
-plt.savefig("valor-total-meio-pagamento.png")
+
+#Salvar a Imagem
+plt.savefig("assets/valor-total-meio-pagamento.png")
 plt.show()
 print("Dados importados PostGreeSQl com sucesso e gráficos gerados com sucesso!")
