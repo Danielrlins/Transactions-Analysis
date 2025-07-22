@@ -56,4 +56,10 @@ Este projeto tem como objetivo realizar uma **análise exploratória de dados (E
 python analise_transacoes.py
 
 ## **🖼 Exemplo de Gráfico**:
-Você pode gerar gráficos como este:
+Você pode gerar gráficos como estes:
+    ![Gráfico de Evolução de Pagamento](assets/evolucao-pagamento.png)
+
+--
+    ![Gráfico de Transações Totais](assets/total-trasacao.png)
+--
+    ![Gráfico de Valor Total por meio de pagamento](assets/valor-total-meio-pagamento.png)
