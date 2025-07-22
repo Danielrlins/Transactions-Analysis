@@ -30,7 +30,7 @@ Este projeto tem como objetivo realizar uma **análise exploratória de dados (E
 ---
 
 ## ⚡ **Como Executar o Projeto**
-1. **Clone o repositório:**
+ **Clone o repositório:**
    ```bash
    git clone https://github.com/seu-usuario/analise-transacoes-postgres.git
    cd analise-transacoes-postgres
@@ -63,3 +63,4 @@ Você pode gerar gráficos como estes:
     ![Gráfico de Transações Totais](assets/total-trasacao.png)
 --
     ![Gráfico de Valor Total por meio de pagamento](assets/valor-total-meio-pagamento.png)
+---
